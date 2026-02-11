@@ -5,3 +5,5 @@
 - Miracle king
 - Michael
 - Dev Andi
+- Vicky
+- Williams
